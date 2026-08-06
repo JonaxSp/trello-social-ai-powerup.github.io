@@ -1,0 +1,27 @@
+{
+  "name": "Social Content Builder AI",
+  "description": "Crie conteúdo para redes sociais com IA - Sem servidor!",
+  "details": {
+    "icon": {
+      "url": "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f680.png"
+    }
+  },
+  "capabilities": [
+    "card-buttons",
+    "popup"
+  ],
+  "connectors": {
+    "iframe": {
+      "url": "https://seu-dominio.com/index.html"
+    }
+  },
+  "author": {
+    "name": "Seu Nome",
+    "url": "https://seu-site.com"
+  },
+  "license": "MIT",
+  "version": "1.0.0",
+  "price": {
+    "type": "free"
+  }
+}
