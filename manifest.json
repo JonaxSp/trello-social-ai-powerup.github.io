@@ -12,12 +12,12 @@
   ],
   "connectors": {
     "iframe": {
-      "url": "https://seu-dominio.com/index.html"
+      "url": "https://jonaxsp.github.io/trello-social-ai-powerup.github.io/index.html"
     }
   },
   "author": {
     "name": "Seu Nome",
-    "url": "https://seu-site.com"
+    "url": "https://jonaxsp.github.io"
   },
   "license": "MIT",
   "version": "1.0.0",
